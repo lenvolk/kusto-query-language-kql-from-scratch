@@ -33,7 +33,7 @@
 // Run button at the top, or use SHIFT+ENTER 
 // Be warned just a table name has the potential to return a lot of data, so
 // be patient if you execute this kind of query. 
-Perf 
+performanceCounters
 
 // In module 2, we'll see how to start filtering the returned data
 
