@@ -1,0 +1,1 @@
+# kusto-query-language-kql-from-scratch
